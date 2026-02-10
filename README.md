@@ -1,7 +1,6 @@
 # Regional Avocado Production Outlook: Time Series Analysis for Eastern Africa
 
-![Avocado Trend Plot](![Uploading avo-1-2-scaled-768x512.jpg…]()
-)
+![image_alt](https://github.com/motebrian/Regional-Avacado-Production-Analysis/blob/298649e632905eaf161dda67d7f1ef1286296137/avo-1-2-scaled-768x512.jpg)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mote%20The%20Analyst-blue)](https://www.linkedin.com/in/your-profile/) [![X (Twitter)](https://img.shields.io/twitter/follow/MoteAnalyst?style=social)](https://x.com/MoteAnalyst)
 
