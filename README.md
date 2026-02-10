@@ -33,7 +33,7 @@ The analysis is fully documented in the Jupyter notebook (`notebooks/Regional_Av
    - Plot raw annual production: Reveals upward trend with a sharp increase post-2015.
    - Compute and plot 3-year and 5-year moving averages to smooth noise and highlight long-term growth.
 
-   ![Moving Averages Plot](images/moving_averages.png)
+   ![Moving Averages Plot](https://github.com/motebrian/Regional-Avacado-Production-Analysis/blob/ceec1560fb481d982844351dca07296de7108ddc/EDA.jpg)
 
 3. **Trend Modeling**
    - **Linear Regression:** Fit a simple linear model on time to quantify overall growth.
