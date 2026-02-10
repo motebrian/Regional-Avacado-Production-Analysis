@@ -48,7 +48,7 @@ The analysis is fully documented in the Jupyter notebook (`notebooks/Regional_Av
    - Calculate yield (production per area).
    - Plot decomposition: Production (upward), Area Harvested (stable until 2020 uptick), Yield (peak in 2010, then decline to near-constant levels).
    
-   ![Decomposition Plot](images/decomposition.png)
+   ![Decomposition Plot](https://github.com/motebrian/Regional-Avacado-Production-Analysis/blob/f42b2aaaf57989075ab22982b5a51ed523385347/Decomposition.jpg)
 
 5. **Forecasting and Interpretation**
    - Use Holt's model to forecast 5–10 years ahead.
