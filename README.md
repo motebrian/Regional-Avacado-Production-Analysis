@@ -41,7 +41,7 @@ The analysis is fully documented in the Jupyter notebook (`notebooks/Regional_Av
    - **LOWESS Smoothing:** Locally weighted scatterplot smoothing to detect subtle fluctuations (e.g., peaks 2008–2016).
    - **Holt's Exponential Smoothing:** Model with linear trend for forecasting; projects continued increase.
 
-   ![Trend Comparison Plot](images/trend_comparison.png)
+   ![Trend Comparison Plot](https://github.com/motebrian/Regional-Avacado-Production-Analysis/blob/a72e48baa3e579b2d9ef4a70e7b0a5e83600c339/Trend.jpg)
 
 4. **Decomposition Analysis**
    - Merge production with area harvested data.
